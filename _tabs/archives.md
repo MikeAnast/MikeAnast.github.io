@@ -17,3 +17,6 @@ order: 3
 - [x] Blockchain Skills for ICT Professionals by BLISS project
 - [x] NECS PhD Winder School 2020
 - [x] Hack-a-Truck anti-tampering contest 2021
+
+**Articles**
+- [x] Penetration Test and Vulnerability Assessment on the nIoVe Ecosystem [**link**](https://niove.eu/index.php/blogs/penetration-test-and-vulnerability-assessment-on-the-niove-ecosystem)
