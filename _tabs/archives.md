@@ -17,6 +17,7 @@ order: 3
 - [x] Blockchain Skills for ICT Professionals by BLISS project
 - [x] NECS PhD Winder School 2020
 - [x] Hack-a-Truck anti-tampering contest 2021
+- [x] Practical Malware Analysis & Triage by TCM security [**link**](https://drive.google.com/file/d/1Idr_ZKl4swBAdqoaHO02CoefTPylFLtC/view?usp=sharing)
 
 **Articles**
 - [x] Penetration Test and Vulnerability Assessment on the nIoVe Ecosystem [**link**](https://niove.eu/index.php/blogs/penetration-test-and-vulnerability-assessment-on-the-niove-ecosystem)
