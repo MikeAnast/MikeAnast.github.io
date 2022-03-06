@@ -18,6 +18,7 @@ order: 3
 - [x] NECS PhD Winder School 2020
 - [x] Hack-a-Truck anti-tampering contest 2021
 - [x] Practical Malware Analysis & Triage by TCM security [**link**](https://drive.google.com/file/d/1Idr_ZKl4swBAdqoaHO02CoefTPylFLtC/view?usp=sharing)
+- [x] Targeted Malware Reverse Engineering by Kaspersky [**link**](https://drive.google.com/file/d/1sFRlIstQZvsQWHgOj82Ua84STQjTpTJe/view?usp=sharing)
 
 **Articles**
 - [x] Penetration Test and Vulnerability Assessment on the nIoVe Ecosystem [**link**](https://niove.eu/index.php/blogs/penetration-test-and-vulnerability-assessment-on-the-niove-ecosystem)
