@@ -11,9 +11,6 @@ order: 3
 
 
 **Certifications**
-- [x] Offensive Pentesting by tryhackme
-- [x] CompTIA Pentest+ by tryhackme
-- [x] Web Fundamentals by tryhackme
 - [x] Blockchain Skills for ICT Professionals by BLISS project
 - [x] NECS PhD Winder School 2020
 - [x] Hack-a-Truck anti-tampering contest 2021
