@@ -13,7 +13,7 @@ order: 3
 **Certifications**
 - [x] Blockchain Skills for ICT Professionals by BLISS project
 - [x] NECS PhD Winder School 2020
-- [x] Hack-a-Truck anti-tampering contest 2021
+- [x] Hack-a-Truck anti-tampering contest 2021 [**link**](https://drive.google.com/file/d/1hbMrx_OKaC9syo2TjrrFdt3gXofse6m3/view?usp=sharing)
 - [x] Practical Malware Analysis & Triage by TCM security [**link**](https://drive.google.com/file/d/1Idr_ZKl4swBAdqoaHO02CoefTPylFLtC/view?usp=sharing)
 - [x] Targeted Malware Reverse Engineering by Kaspersky [**link**](https://drive.google.com/file/d/1sFRlIstQZvsQWHgOj82Ua84STQjTpTJe/view?usp=sharing)
 
