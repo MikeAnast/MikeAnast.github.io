@@ -22,3 +22,5 @@ order: 3
 **Articles**
 - [x] Penetration Test and Vulnerability Assessment on the nIoVe Ecosystem [**link**](https://niove.eu/index.php/blogs/penetration-test-and-vulnerability-assessment-on-the-niove-ecosystem)
 - [x] Semi-automated Penetration Testing tool developed on the ECHO project [**link**](https://echonetwork.eu/pentest/) 
+- [x] Web Application Penetration Testing on the Visual Analytics Suite of the nIoVe Platform [**link**](https://niove.eu/index.php/blogs/web-application-penetration-testing-on-the-visual-analytics-suite-of-the-niove-platform)
+
